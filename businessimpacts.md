@@ -1,4 +1,5 @@
-#Positive Business Impacts  
+#Social Media Impacts
+**Positive Business Impacts**  
 
 Brands can advertise their products to a wider audience of people and expand their markets across the globe 
 
@@ -10,7 +11,7 @@ Competitors can be easily watched and tracked through social media on their rele
 
  
 
-#Negative Business Impacts 
+**Negative Business Impacts** 
 
 Business’s Reputation can easily be damaged such as by posting an image that may be highly controversial  
 
@@ -20,9 +21,9 @@ Cannot control the audiences’ viewpoints as they all may have mixed opinions a
 
  
 
-#Sources 
+**Sources** 
 
-https://yourweb.ie/7-benefits-of-social-media-for-a-small-business/ (22 07 2025) 
+https://yourweb.ie/7-benefits-of-social-media-for-a-small-business/ (22 10 2025) 
 
 https://link.springer.com/article/10.1007/s10796-021-10106-y 
 
