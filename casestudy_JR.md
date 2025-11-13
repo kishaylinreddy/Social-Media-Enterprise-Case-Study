@@ -1,8 +1,11 @@
 ***This is done by Jomehl Real***
 
-*Ethical reflection*
+**Ethical reflection**
 
-Social media brings many benefits to people's lives. It allows us to connect with people on a global basis through the internet. It gives you easy access to information about local businesses, events and anything that may be of interest to the user. This of course has it's downsides from an ethical standpoint.
+Social media has brought many benefits to people's lives. It allows us to connect with people on a global scale through the use of the internet. You can access information about businesses and events in the blink of an eye. This comes with many challenges from an ethical standpoint.
 
-One of the biggest ethical challenges that social media faces is privacy. All of the user's data is stored in data centres that the social media companies utilise. When these data centres are breached, it could lead to sensitive information leaks(emails, names, locations, etc...), which could lead to identity theft, stalking and other issues that may affect the users. 
+Privacy is constantly being challenged. Massive amounts of data are being harvested by websites and the general public don't know where that data is going or who is able to see it, creating an ethical dilemma where a user decides whether to use a website's services or not. A study conducted in 2024 shows that 80% of the general population feel uneasy and wish that they knew more about how their personal data is being used online (Harmeling, T. 2025). 
 
+References
+
+https://usercentrics.com/guides/data-privacy/data-privacy-statistics/
