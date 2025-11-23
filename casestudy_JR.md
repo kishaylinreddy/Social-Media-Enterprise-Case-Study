@@ -6,6 +6,12 @@ Social media has brought many benefits to people's lives. It allows us to connec
 
 Privacy is constantly being challenged. Massive amounts of data are being harvested by websites and the general public don't know where that data is going or who is able to see it, creating an ethical dilemma where a user decides whether to use a website's services or not. A study conducted in 2024 shows that 80% of the general population feel uneasy and wish that they knew more about how their personal data is being used online (Harmeling, T. 2025). 
 
+Another major ethical issue is the spread of false news. Tabloids and dedicated social media accounts constantly spread false information in order to trigger a reaction, usually for nefarious means. This information then spreads across communities and becomes an issue that often have a negative impact. In a report by Vosoughi et al. (2018), it was found that false news spreads more rapidly than true news on twitter.
+
+
 References
 
-https://usercentrics.com/guides/data-privacy/data-privacy-statistics/
+Tilman Harmeling, 150 data privacy statistics companies need to know about in 2025. (2025) https://usercentrics.com/guides/data-privacy/data-privacy-statistics/
+
+Soroush Vosoughi et al., The spread of true and false news online. Science359,1146-1151(2018).DOI:10.1126/science.aap9559
+
