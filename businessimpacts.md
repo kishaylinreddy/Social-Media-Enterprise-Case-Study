@@ -1,41 +1,72 @@
-## Social Media Impacts - Business View - Kishaylin Reddy
+# Business Viewpoint Analysis - Kishaylin Reddy
 
-In the ever-evolving world of business, social media has constantly and effortlessly reshaped the business world by introducing a platform that connects over 5 billion users globally, where consumers and businesses can interact with each other virtually online while also giving businesses an opportunity to interact with their competitors in real time. Social media is an informative and important tool that businesses need in our world today, to advertise their products effectively, however businesses can be led down a different path, where the outcomes of their impact are unknown that may lead to reputation damage, cybersecurity threats and not knowing who their target audience really are. 
+## Describing the Business Viewpoint Analysis
 
-Brands can advertise their products to a wider audience of people and expand their markets across the globe. Social media platforms like TikTok, Instagram, Facebook, YouTube, and LinkedIn, allow companies to present their products to an audience of diverse backgrounds for them to view. Due to this, this has led to the expansion of international markets of all business sizes, allowing them to engage with their customers in just a few swipes. A recent case study published by Lee (2025) discusses a small business in Texas, USA gaining '2.3 million views' only 'within 48 hours' due to its social media marketing that increased their following massively.  
+In the ever-evolving world of business, social media has constantly and effortlessly reshaped the business world by introducing a platform that connects over 5 billion users globally, where consumers and businesses can interact with each other virtually online while also giving businesses an opportunity to interact with their competitors in real time. Social media is an informative and important tool that businesses need in our world today, to advertise their products effectively, expand their markets and smooth operations, however businesses can be led down a different path, where the outcomes of their impact are unknown that may lead to reputation damage, cybersecurity threats and not knowing who their target audience really are.   
 
-Apart from this, it also boosts customer engagement as they interact in real time with the business, making the business experience more humanized. About '78% of consumers prefer short-form video for product discovery' in 2025 as these types of videos appear to make the business more relatable and approachable to consumers. Other than videos, consumers can find all the details about the business such as the email address, phone number, specials and deals and website links, making it easier to locate information all in one sitting.  
+## Positive Business Impacts 
 
-Marketing products tend to be more cost effective as it is much cheaper to advertise online rather than using other advertising mediums such as posters and flyers, which costs much more. Not only is this cost effective, but it also lowers the company's environmental impact. Social media does not require any paper; therefore, fewer trees are being cut down and do not have any transportation costs associated with it like postal services to distribute the flyers.  
+### Market Expansion
+
+Businesses can advertise their products to a wider audience of people and expand their markets across the globe at a minimal cost. Social media platforms like TikTok, Instagram, Facebook, YouTube, and LinkedIn, allow companies to present their products to an audience of diverse backgrounds for them to view.  
+
+Due to this, this has led to the expansion of international markets of all business sizes, allowing them to engage with their customers in just a few swipes. A recent case study published by Lee (2025) discusses a small business in Texas, USA gaining “2.3 million views” only “within 48 hours” due to its social media marketing that increased their online following massively.  
+
+### Customer Engagement 
+
+Interacting in real time with businesses makes the business experience seem more humanised. According to Teleprompter (2025), “78% of consumers prefer short-form video for product discovery” in 2025 as these types of videos fosters the business brand to be more relatable and approachable to consumers.  
+
+Apart from the videos, consumers can find all the essential details about the business such as the contact details, specials and deals and website links, making it easier to locate information all in one sitting, to become more accessible to their customers.  
+
+### Environmentally Friendly with Low Costs 
+
+Marketing products tend to be more cost effective as it is much cheaper to advertise online rather than using other advertising mediums such as posters and flyers, which costs much more. Not only is this cost effective, but it also lowers the company’s environmental impact.  
+
+Social media does not require any paper; therefore, fewer trees are being cut down; less greenhouse gas emissions are released from manufacturing plants, and they do not have any transportation costs associated with it, therefore makes the business more sustainable and environmentally friendly.  
+
+### Monitoring Competitors at Ease 
 
 Competitors can be easily watched and tracked through social media on their release of products and their price ranges, making it easier for businesses to keep up with new trends and be more appealing and competitive.  
 
-
-
-**To Do List**
-***Positive Business Impacts***
-
-(Completed) Brands can advertise their products to a wider audience of people and expand their markets across the globe 
-
-(Completed)Increases customer engagement as they are interacting in real time with the business making it more humanized. 
-
-(Completed- statistic needed?)Marketing products are more cost effective as it is much cheaper to advertise online rather than using other advertising mediums such as posters and flyers which costs much more 
-
-(Completed - statistic needed?)Competitors can be easily watched and tracked through social media on their release of products and their price ranges making it easier for business to keep up with new trends and be more appealing  
+A real-life example of this would be the grocery retailer, Tesco, keeping up to date with Aldi, one of their competitors. By paying attention to their products, they apply the same prices to their own products and advertise it as “Aldi Price Match” to consumers, emphasizing the great quality of goods at a reasonable price tag.  
 
  
 
-***Negative Business Impacts***
+## Negative Business Impacts 
 
-Business’s Reputation can easily be damaged such as by posting an image that may be highly controversial  
+### Reputational Risks 
 
-Cybersecurity issues as business social media accounts can be hacked and highly confidential data can be lost and stolen 
+A business’s reputation is extremely valuable; however, it can easily be damaged, such as posting an image that may be highly controversial or dishonest in any form, which can be detrimental.  
 
-Cannot control the audiences’ viewpoints as they all may have mixed opinions about their products, which can negatively affect their brand image and engagement with their audience 
+A few years ago, the most known and loved fashion brands Zara, H&M & Uniqlo, to name a few, were called out for their misleading information on their environmental efforts and were criticized for greenwashing, leading to reputational damages and disheartened environmentally conscious consumers. 
+
+### Cybersecurity Threats  
+
+Social Media Business Accounts are prone to cybersecurity issues and cyber-attacks due to the highly confidential data that can be lost and stolen.  
+
+Hulsey (2024) reported that “there were 3,205 data compromises in 2023, impacting 353 million total victims” which emphasizes that these attacks not only take the sensitive data along with them, but erodes the brand trust and transparency.  
+
+### A Challenging Audience  
+
+People can be difficult to please and due to this, businesses cannot control their audiences’ viewpoints as they all may have mixed opinions about their products, which can negatively affect their brand image and engagement with their audience.  
+
+Poor reviews, negative comments and damaging posts shift businesses in a different spotlight that can cause serious consequences if ignored.  
+
+### Digital Divide 
+
+Businesses may find it difficult to promote their products to a target audience of people who may not use Social Media apps, find difficulties using them or have no access to social media at all, which causes businesses to find alternative ways to reach them, resorting to costly ventures. 
+
+According to Statista (2025), “5.66 billion, or 68.7% of the world's population, were social media users” in 2025, which leads to 31.3% of people globally who do not use social media. This figure is nearly one third of the world's population, identifying it as a serious challenge 
+
+## Connection to Module concepts 
+
+This analysis demonstrates the Business Perspective, illustrating that technology like social media platforms create effective ways to assist business needs, however, has many risks associated with it. It collides with the module concepts of computing for businesses, data privacy, ethical awareness covered in Week 7 and touches on the impact of the digital divide covered from Week 3.  
+
+
 
  
 
-**Sources** 
+## Sources TBC
 
 https://yourweb.ie/7-benefits-of-social-media-for-a-small-business/ (22 10 2025) 
 
@@ -46,4 +77,6 @@ https://www.idcrawl.com/blog/businesses-benefits-and-drawbacks-from-social-media
 https://nationalbusiness.org/22-benefits-of-social-media-for-business/ 
 
 https://www.socialinsider.io/blog/impact-of-social-media-on-business/ 
+
+
 
