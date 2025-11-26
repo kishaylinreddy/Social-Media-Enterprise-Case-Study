@@ -12,7 +12,7 @@ blablabla
 
 blablabla
 
-## Business Viewpoint Analysis
+## Business Viewpoint Analysis - by Kishaylin Reddy
 
 ### Describing the Business Viewpoint Analysis
 
