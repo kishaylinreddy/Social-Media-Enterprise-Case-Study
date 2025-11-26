@@ -123,7 +123,7 @@ Elad, B. (2025, May 5). Social Media Marketing Statistics 2025: Trends, Metrics,
 
 Goodbody, W. (2024). Are social media firms facing a day of reckoning? Available at: https://www.rte.ie/news/business/2024/0810/1464281-social-media-analysis/ 
 
-Hulsey, L. (2024, February 23). 2023 Will Go Down for Record-Setting Number of Data Breaches. Retrieved from Governing website: https://www.governing.com/management-and-administration/2023-will-go-down-for-record-setting-number-of-data-breaches 
+Hulsey, L. (2024, February 23). 2023 Will Go Down for Record-Setting Number of Data Breaches. Available at: https://www.governing.com/management-and-administration/2023-will-go-down-for-record-setting-number-of-data-breaches 
 
 IDCrawl. (2025, July 15). Businesses’ Benefits and Drawbacks from Social Media. Available at: https://www.idcrawl.com/blog/businesses-benefits-and-drawbacks-from-social-media 
 
