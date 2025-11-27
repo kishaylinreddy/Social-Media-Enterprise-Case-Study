@@ -5,13 +5,16 @@
 <<<<<<< HEAD
 ### Group 31 - Kishaylin Reddy, Jomehl Real(A00041794), Yaseen Rahman, Rukhma Yaseen
 =======
-### Group 31 - Kishaylin Reddy (A00021351), Jomehl Real(A00041794), Yaseen Rahman, Rukhma Yaseen
+### Group 31 - Kishaylin Reddy (A00021351), Jomehl Real(A00041794), Yaseen Rahman, Rukhma Yaseen(A00027710)
 >>>>>>> 02064a188981da2a406816a0e2dd542a3a59107b
 
 ## Introduction
 Social Media apps are internet-based tools that allow people to connect, communicate, and share information with others online. Everyday people rely on social media for instant connectivity to connect with people across the globe as well as for entertainment and with celebrities, news or even watching funny dog videos. 
+Over time, platforms like Six Degress, MySpace, facebook, Instagram, WhatsApp, Snapchat, and tiktok have changed the way people interact, share information and also work. 
 
-In this case study, we will be highlighting the evolution of social media apps, how social media impacts the society we live in, and the world of business as well as the ethical implications of this. 
+In this case study, we will be highlighting the evolution of social media apps, how social media impacts the society we live in, and the world of business as well as the ethical implications of this. Social media helps businesses grow around the world and reach more cutomers , show their products but can also cause problems like online attacks etc. For society it can change the way people communication and work. 
+
+This topic is important because it shows becausw social media effects boty society and business in many ways , showing how technology can change the way we connect with others , work and the way we live . 
 
 
 ## Historical Development 
