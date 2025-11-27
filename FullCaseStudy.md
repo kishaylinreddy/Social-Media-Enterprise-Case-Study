@@ -12,9 +12,30 @@
 
 blablabla
 
-## Historical Development
+## Historical Development 
+Timeline of Key Events 
+1997-2003 Early Social Networks 
+1997
+SixDegrees (1997): The first social media platform of its kind to allow users to create profiles, maintain lists of friends and network with others.It introduced the basic featured that most platforms use today.
+2003
+MySpace: MySpace was one of the most popular platforms. It allowed users to share muisc , customise music , and ofcourse connect wit friends. It quickly became a major hub for musicians and teenagers.
 
-blablabla
+2004 - Facebook 
+Facebook was launched in 2004 by Mark Zuckerberg .It was originally launched for university students but quickly became the largerst social media network worldwide .
+2005 - Youtube 
+Youtube was launched in 2005 . It allowed users to share, view and also share vidoes for the first time on a large scale. it quickly became the largest platfrom for video sharimg offering a platform for independent creators,vloggers and entertainers . 
+2006- Twitter 
+Twitter now (X) was founded by Jack Dorsey, Evan Willioms, Biz Stone. It was a platform that  people could use to post short videos and images , that 140 charcater limit known as tweets became really popular. today it has over 300 million monthly active users . 
+2009- Whatsapp 
+Whatsapp was founded by Jan Koum .It was an app where people could send texts, videos , photos and voice messages for free. Today i think its one of the most popular app in the world. People today use it to chat with their family and friends , for updates and even for businesses. 
+2010- Instagram 
+Instagram was founded by Kevin Systrom and Mike Krieger. Instagram became really popular because of its really special features like filters, allowing users to edit their photographs without any effort. Today it has changed the way brands and also users to communicate .
+2011- Snapchat 
+Snapchat was founded by Evan Spiegel, Bobby Murphy and Reggie Brown. 
+Snapchat introduced fun filters and lenses that could change your face. it was initially popular among young users with its distinctive feature of disappearing messages. Today its really popular among young people , especially Gen Z . 
+2016- Tiktok 
+Tiktok was founded by Zhang Yiming . It originally started in China under a different name, Douyin. But was later internationally launched as tiktok. It became really popular among young people for sharing short videos and it is still popular today . 
+
 
 ## Business Viewpoint Analysis - by Kishaylin Reddy
 
