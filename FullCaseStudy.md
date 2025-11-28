@@ -5,16 +5,13 @@
 <<<<<<< HEAD
 ### Group 31 - Kishaylin Reddy, Jomehl Real(A00041794), Yaseen Rahman, Rukhma Yaseen
 =======
-### Group 31 - Kishaylin Reddy (A00021351), Jomehl Real(A00041794), Yaseen Rahman, Rukhma Yaseen(A00027710)
+### Group 31 - Kishaylin Reddy (A00021351), Jomehl Real(A00041794), Yaseen Rahman, Rukhma Yaseen
 >>>>>>> 02064a188981da2a406816a0e2dd542a3a59107b
 
 ## Introduction
 Social Media apps are internet-based tools that allow people to connect, communicate, and share information with others online. Everyday people rely on social media for instant connectivity to connect with people across the globe as well as for entertainment and with celebrities, news or even watching funny dog videos. 
-Over time, platforms like Six Degress, MySpace, facebook, Instagram, WhatsApp, Snapchat, and tiktok have changed the way people interact, share information and also work. 
 
-In this case study, we will be highlighting the evolution of social media apps, how social media impacts the society we live in, and the world of business as well as the ethical implications of this. Social media helps businesses grow around the world and reach more cutomers , show their products but can also cause problems like online attacks etc. For society it can change the way people communication and work. 
-
-This topic is important because it shows becausw social media effects boty society and business in many ways , showing how technology can change the way we connect with others , work and the way we live . 
+In this case study, we will be highlighting the evolution of social media apps, how social media impacts the society we live in, and the world of business as well as the ethical implications of this. 
 
 
 ## Historical Development 
@@ -124,16 +121,16 @@ From the introduction of social media apps, the lives of people have changed dra
 ### Advantages in Society 
 
 ## Communication
-One of the most amazing changes is the difference between the old and the new way of communication, now we can communicate with our friends and families just by clicking some application on our phone like WhatsApp, Instagram, Facebook or Discord, but before it was different, they used letters or old rotary phones to communicate with their parents or friends, it was slow compared to nowadays form of communication. 
+One of the most amazing changes is the difference between the old and the new way of communication, now we can communicate with our friends and families just by clicking some application on our phone like WhatsApp, Instagram, Facebook or Discord, but before it was different, they used letters or old rotary phones to communicate with their parents or friends, it was slow compared to nowadays form of communication but also functional. 
 
  
 ## Changes in the way we live
-Another thing that has changed is how we manage our activities like booking a hotel for holiday, paying rent and bills, finding jobs and the possibility to learn new skills, almost everything can be done online nowadays. This made the people be less stressed because it’s less time consuming and it's more comfortable. 
+Another thing that has changed is how we manage our activities like booking a hotel for holiday, paying rent and bills, finding jobs and the possibility to learn new skills, almost everything can be done online nowadays, this made the people be less stressed because it’s less time consuming and have less worries about not paying in time. 
 
  
 
 ## Opportunities
-Another change that made the society change is that now more people have the opportunity to change their life, because of social media they can become influencer, open an e-commerce where they can sell their own goods easily or create an online business that gives the user a service like a streaming platform where they can pay and watch movies or series. 
+Another change that made the society change is that now more people have the opportunity to change their life because of social media, they can become influencer, open an e-commerce where they can sell their own goods easily or create an online business that gives the user a service like a streaming platform where they can pay and watch movies or series. 
 
  
 
@@ -142,16 +139,16 @@ After the full introduction of social media, society changed in a way that the p
 ## Disadvantages in Society
 
 ## Laziness in Society 
-According to the article wrote by Carson Wulf (2021) “Is the Internet making People Lazy?”, social media is making people more prone to laziness. This can be seen more in teenagers than adults. The reason to why, is that social media apps are becoming more addictive like TikTok, Instagram and YouTube and not only that is the cause of laziness, because of the fact that we are able to talk with people by calling them even if they are far away; teenagers spends a lot of time playing video games while talking to their friends, and this is promoting them to procrastination if not controlled by their parents. 
+According to the article wrote by Carson Wulf (2021) “Is the Internet making People Lazy?”, social media is making people more prone to laziness. This can be seen more in teenagers than adults. The reason to why, is that social media apps are becoming more addictive like TikTok, Instagram and YouTube and not only that is the cause of being lazy, because of the fact that we are able to talk with people by calling them even if they are far away, teenagers spends a lot of time playing video games while talking to their friends, and this is promoting them to procrastination if not controlled by their parents. 
 
  
 ## Depression in Society
-On the internet everything can happen like cyber bullying or death threats, if these issues are not moderated by those who works in social media apps or by the parents, these can lead to depression, anxiety or even worse to the people who suffers from it. 
+On the internet everything can happen like Cyber Bullying or death threats, if these issues are not moderated by those who works in social media apps or by the parents, these can lead to depression, anxiety or even worse to the people who suffers from it. 
 Fear of Missing Out(FOMO), this when people start scrolling on news and videos because they fear to miss out on information or what other people are doing like trends on social media, and this can lead to anxiety and waste of time. 
 
  
 ## Misinformation in Society 
-Misinformation can easily happen on the internet, this can be a mistake or a voluntary action made by someone who want to see conflicts between communities, this a huge threat to society since most of the people get their information on social media and this can lead to different events like hospitalizations, because they may have consumed something not edible that someone on the internet said it was, money scams because they may have pressed on a link while trying to look for something on the internet and they got their sensitive data stolen because of it and this can also  happen by call if they ask you for your bank details while they try to impersonate the customer service of a big company. 
+Misinformation can easily happen on the internet, this can be a mistake or a voluntary action made by someone who want to see conflicts between communities, this a huge threat to society since most of the people get their information on social media and this can lead to different events like hospitalizations, because they consumed something not edible that someone on the internet said it was, money scams because they may have pressed on a link while trying to look for something on the internet and they got their bank details stolen because of it, this can also  happen by call if they ask you for your bank details when they try to impersonate the customer service of a big company. 
 
  
 
@@ -160,19 +157,19 @@ An influencer can affect society in a positive or negative way, it depends on th
 
 ## Negative
 
-An influencer can promote bad things like gambling, misinformation, harmful products and unethical behaviors. 
+An influencer can promote bad things like gambling, misinformation, harmful product and unethical behaviors. 
 A lot of times the influencers will deceive his fans by showing them their false personality online while hiding their true personality in real life, they mostly do this for money and they are mainly followed by teenagers, because of this most influencer ended their career because of the change of the public opinion when they discover who they truly are, and sometimes this can become a topic for some news stations. 
 There was an incident where a streamer did a giveaway in Manhattan’s Union Square Park, almost 2000 people showed up, this event led to vandalism and public aggression. This shows how damaging an online influencer may be if events like this are not controlled.  
 
  
 ## Positive
 
-There are some influencers who helps his fans by giving them advice for real life situations and they are mostly loved by the elderly and families, they can change their follower’s opinions easily but it is something that they rarely do, these influencers are the one who contributes the most to charities and helps the people on social media to be better. 
+There are some influencers who helps his fans by giving them advice for real life situations and they are mostly loved by the elderly and families, they can change their follower’s opinions easily but it is something that they rarely do, these influencer are the one who contributes the most in charities and helps the people on social media to be better. 
 
 Influencers are able to control almost all their fans to do certain things. If he asks to help another influencer become famous on social media, most of his followers will try to make him famous. They can also collaborate with brands to make him more money while increasing the credibility of that brand in his community.
 
 ## connection to module
-This viewpoint analysis demonstrate how technology has advanced and how it affected the society by showing the advantages and disadvantages. This analysis can be associated with some concepts of the module, like opportunity to open new online businesses, showing that data are very sensitive while exploring on the internet and how communication has changed the society. 
+This viewpoint analysis demonstrate how technology has advanced and how it affected the society by showing the advantages and disadvantages. This analysis can be associated with some concepts of the module, like opportunity to open new online businesses, data are very sensitive while exploring on the internet and how communication has changed the society. 
 
 ## Ethical Reflection - by Jomehl Real 
 
@@ -210,9 +207,9 @@ Other ethical concerns around privacy and accountability bring into question the
 
 ## References
 
-Tilman Harmeling, 150 data privacy statistics companies need to know about in 2025. (2025) https://usercentrics.com/guides/data-privacy/data-privacy-statistics/
+Harmeling, T. (2025, March 25) 150 data privacy statistics companies need to know about in 2025. (2025) https://usercentrics.com/guides/data-privacy/data-privacy-statistics/
 
-Soroush Vosoughi et al., The spread of true and false news online. Science359,1146-1151(2018).DOI:10.1126/science.aap9559
+Vosoughi, S. et al.,(2018, March 9) The spread of true and false news online. Science359,1146-1151(2018).[DOI:10.1126/science.aap9559] https://www.science.org/doi/10.1126/science.aap9559
 
 Michael Barthel, Amy Mitchell and Jesse Holcomb, Many Americans Believe Fake News Is Sowing Confusion (2016) https://www.pewresearch.org/journalism/2016/12/15/many-americans-believe-fake-news-is-sowing-confusion/
 
@@ -253,9 +250,3 @@ Yourweb Editor. (2023). 7 Benefits Of Social Media For A Small Business. Availab
 “Fear of missing out: A brief overview of origin, theoretical underpinnings and relationship with mental health”(2021 Jul 6) https://pmc.ncbi.nlm.nih.gov/articles/PMC8283615/  
 
 "Livestreamer Kai Cenat faces multiple charges after chaos erupts at Manhattan's Union Square during giveaway"(August 4, 2023) https://www.cbsnews.com/newyork/news/large-crowd-gathered-at-union-square-seen-hurling-objects/
-
-"A History Timeline Abut Social Media " https://historytimelines.co/timeline/social-media- 
-
-"Social Media Through The Years : A 25- Year Timeline "  https://morethandigital.info/en/social-media-through-the-years-a-25-year-timeline/ 
-
-
