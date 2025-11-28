@@ -253,3 +253,7 @@ Yourweb Editor. (2023). 7 Benefits Of Social Media For A Small Business. Availab
 “Fear of missing out: A brief overview of origin, theoretical underpinnings and relationship with mental health”(2021 Jul 6) https://pmc.ncbi.nlm.nih.gov/articles/PMC8283615/  
 
 "Livestreamer Kai Cenat faces multiple charges after chaos erupts at Manhattan's Union Square during giveaway"(August 4, 2023) https://www.cbsnews.com/newyork/news/large-crowd-gathered-at-union-square-seen-hurling-objects/
+
+https://historytimelines.co/timeline/social-media- 
+
+https://morethandigital.info/en/social-media-through-the-years-a-25-year-timeline/ 
