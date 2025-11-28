@@ -2,11 +2,7 @@
 
 ## Evolution of Social Media Platforms
 
-<<<<<<< HEAD
-### Group 31 - Kishaylin Reddy, Jomehl Real(A00041794), Yaseen Rahman, Rukhma Yaseen
-=======
-### Group 31 - Kishaylin Reddy (A00021351), Jomehl Real(A00041794), Yaseen Rahman, Rukhma Yaseen
->>>>>>> 02064a188981da2a406816a0e2dd542a3a59107b
+### Group 31 - Kishaylin Reddy (A00021351), Jomehl Real (A00041794), Yaseen Rahman (A00024837) & Rukhma Yaseen (A00027710)
 
 ## Introduction
 Social Media apps are internet-based tools that allow people to connect, communicate, and share information with others online. Everyday people rely on social media for instant connectivity to connect with people across the globe as well as for entertainment and with celebrities, news or even watching funny dog videos. 
