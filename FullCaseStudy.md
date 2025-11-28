@@ -254,6 +254,8 @@ Yourweb Editor. (2023). 7 Benefits Of Social Media For A Small Business. Availab
 
 "Livestreamer Kai Cenat faces multiple charges after chaos erupts at Manhattan's Union Square during giveaway"(August 4, 2023) https://www.cbsnews.com/newyork/news/large-crowd-gathered-at-union-square-seen-hurling-objects/
 
-https://historytimelines.co/timeline/social-media- 
+"A History Timeline Abut Social Media " https://historytimelines.co/timeline/social-media- 
 
-https://morethandigital.info/en/social-media-through-the-years-a-25-year-timeline/ 
+"Social Media Through The Years : A 25- Year Timeline "  https://morethandigital.info/en/social-media-through-the-years-a-25-year-timeline/ 
+
+
