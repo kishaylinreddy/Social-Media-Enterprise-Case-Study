@@ -229,12 +229,12 @@ Varga, S. (2024, October 22). Impact of Social Media on Business: Benefits and R
 
 Yourweb Editor. (2023). 7 Benefits Of Social Media For A Small Business. Available at: https://yourweb.ie/7-benefits-of-social-media-for-a-small-business/ 
 
-“Pros and Cons of Social Media”(March 1, 2022) https://www.brownhealth.org/be-well/social-media-good-bad-and-ugly  
+Dalomba, F. (2022, March 1). Pros and Cons of Social Media. Available at: https://www.brownhealth.org/be-well/social-media-good-bad-and-ugly  
 
-“Is the Internet making People Lazy? (Carson Wulf, 2021)” https://carsonwulf.medium.com/argumentative-essay-is-the-internet-making-people-lazy-c3da9ac3a105  
+Wulf, C. (2021, april 1). Is the Internet making People Lazy?. Available at: https://carsonwulf.medium.com/argumentative-essay-is-the-internet-making-people-lazy-c3da9ac3a105  
 
-“Social media and the spread of misinformation: infectious and a threat to public health”(31 March 2025) https://academic.oup.com/heapro/article/40/2/daaf023/8100645  
+Denniss, E. , Lindberg, R. (2025, March 31). Social media and the spread of misinformation: infectious and a threat to public health. Available at: https://academic.oup.com/heapro/article/40/2/daaf023/8100645  
 
-“Fear of missing out: A brief overview of origin, theoretical underpinnings and relationship with mental health”(2021 Jul 6) https://pmc.ncbi.nlm.nih.gov/articles/PMC8283615/  
+Sharma, A. , National Library of Medicinie (2021, July 6). Fear of missing out: A brief overview of origin, theoretical underpinnings and relationship with mental health. Available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC8283615/  
 
-"Livestreamer Kai Cenat faces multiple charges after chaos erupts at Manhattan's Union Square during giveaway"(August 4, 2023) https://www.cbsnews.com/newyork/news/large-crowd-gathered-at-union-square-seen-hurling-objects/
+Zanger, J. , Gainer A. (2023, August 4). Livestreamer Kai Cenat faces multiple charges after chaos erupts at Manhattan's Union Square during giveaway. Available at: https://www.cbsnews.com/newyork/news/large-crowd-gathered-at-union-square-seen-hurling-objects/
